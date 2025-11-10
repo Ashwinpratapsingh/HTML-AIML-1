@@ -23,6 +23,7 @@ h1 {
 .inner-box {
     background-color: yellow;
     text-align: center;
+    align-content: center;
     padding: 40px;
     font-size: 18px;
     font-family: 'Times New Roman', serif;
